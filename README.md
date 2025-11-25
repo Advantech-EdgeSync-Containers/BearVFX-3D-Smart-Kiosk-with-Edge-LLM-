@@ -1,1 +1,1 @@
-# BearVFX-3D-Smart-Kiosk-with-Edge-LLM-
+# BearVFX-3D-AI-Virtual-Human-with-Edge-AI-Architecture
