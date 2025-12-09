@@ -21,7 +21,7 @@ Bearvfx 3D AI Virtual Human delivers measurable impact across operations and mar
 
 ---
 
-### ⚙️ Technology Stack
+### Technology Stack
 
 This project leverages cutting-edge technology for cinematic quality and real-time intelligence:
 
