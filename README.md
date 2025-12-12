@@ -43,7 +43,7 @@ This project operates using a **two-PC, machine-to-machine connection** setup to
 
 This machine is dedicated to running **Unreal Engine** for high-quality, real-time cinematic visuals.
 
-| Component | Specification (Equivalent or Better) | Rationale |
+| Component | Specification<br>(Equivalent or Better) | Rationale |
 | :--- | :--- | :--- |
 | **Operating System** | Windows 11 Home Edition | Standard OS for high-end rendering applications. |
 | **GPU** | **NVIDIA RTX 4090** | Essential for complex real-time ray tracing and high-resolution rendering. |
