@@ -28,7 +28,8 @@ Bearvfx 3D AI Virtual Human delivers measurable impact across operations and mar
 This project leverages cutting-edge technology for cinematic quality and real-time intelligence:
 
 * **Cinematic Visuals:** Real-time rendering powered by **Unreal Engine** and high-fidelity 3D modeling using **MetaHuman** technology.
-* **Intelligent Core:** Powered by an **Edge-LLM (Large Language Model)** for localized, smart, and quick response capabilities, supported by **NVIDIA RIVA** for high-performance, low-latency voice recognition.
+* **Intelligent Core:** Powered by an **Edge-LLM (Large Language Model)** for localized, smart, and quick response capabilities.
+* **High-Performance Voice:** Uses **NVIDIA RIVA** for low-latency, high-accuracy Automatic Speech Recognition (ASR).
 * **Patented Technology:** Utilizes **Multi-sensory Human-Computer Interaction Technology (R.O.C. Invention Patent)** to ensure unique and leading interaction quality.
 
 ---
