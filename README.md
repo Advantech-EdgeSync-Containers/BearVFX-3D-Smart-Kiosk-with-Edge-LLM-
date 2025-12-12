@@ -72,3 +72,14 @@ This component provides the client-facing interactive touch interface and manage
 | **Functionality** | **Touch-enabled** | Allows for direct user interaction and input. |
 
 ---
+
+## Contact & Collaboration
+
+For business inquiries, project collaboration, or partnership opportunities, please reach out to the founder and CEO of our enterprise.
+
+| Information | Details |
+| :--- | :--- |
+| **Enterprise Name** | BearVFX Co., Ltd. |
+| **Contact Person** | Ethan Cheng ( Founder & CEO ) |
+| **Email** | ethan.cheng@bearvfx.com |
+| **Phone** | +886-955-310-208 |
