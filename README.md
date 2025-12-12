@@ -59,3 +59,16 @@ This machine is dedicated to hosting the **Edge-LLM** (Local Large Language Mode
 * **Platform Software:** Utilizes **Advantech's WEDA Container** solution for streamlined deployment and management of the AI core and Edge-LLM services.
 * **Role:** Serves as the high-performance edge computing platform for the AI core.
 * **Detailed Specifications:** Please refer to Advantech's official product website for complete hardware specifications.
+
+### 3. User Interface: Interactive Kiosk
+
+This component provides the client-facing interactive touch interface and manages the primary audio/video input and output for the experience.
+
+| Component | Specification | Rationale |
+| :--- | :--- | :--- |
+| **Device Type** | Client-side Interactive Touch Kiosk Hardware and A/V I/O System | Focuses on multi-sensory human-computer interaction. |
+| **Display Size** | **55 inches** | Large format for immersive viewing. |
+| **Resolution** | **1920 x 1080 (Full HD)** | Standard high-definition display resolution. |
+| **Functionality** | **Touch-enabled** | Allows for direct user interaction and input. |
+
+---
