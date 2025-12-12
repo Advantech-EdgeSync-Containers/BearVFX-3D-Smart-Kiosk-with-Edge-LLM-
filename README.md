@@ -3,7 +3,7 @@
 
 ---
 
-### Features & Business Value
+## Features & Business Value
 
 Bearvfx 3D AI Virtual Human delivers measurable impact across operations and marketing:
 
@@ -23,7 +23,7 @@ Bearvfx 3D AI Virtual Human delivers measurable impact across operations and mar
 
 ---
 
-### Core Technology
+## Core Technology
 
 This project leverages cutting-edge technology for cinematic quality and real-time intelligence:
 
@@ -34,7 +34,7 @@ This project leverages cutting-edge technology for cinematic quality and real-ti
 
 ---
 
-### Hardware Specification
+## Hardware Specification
 
 This project operates using a **two-PC, machine-to-machine connection** setup to divide the computational load between high-fidelity rendering and real-time intelligence.
 
