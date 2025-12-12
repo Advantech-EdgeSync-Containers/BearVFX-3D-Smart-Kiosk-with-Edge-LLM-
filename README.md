@@ -9,7 +9,7 @@
 BearVFX 3D AI Virtual Human delivers measurable impact across operations and marketing:
 
 ### Multi-sensory Interaction
-* **Unique Engagement:** Utilizes multi-modal AI (vision, speech, thought) to create a lifelike, deeply engaging virtual human experience.
+* **Unique Engagement:** Utilizes multi-modal AI ( vision, speech, thought ) to create a lifelike, deeply engaging virtual human experience.
 
 ### Operational Excellence & Cost Reduction
 * **Drastically Reduces Operating Costs:** Automates services and mitigates labor shortages by providing 24/7 support without the need for human staffing.
@@ -26,24 +26,24 @@ BearVFX 3D AI Virtual Human delivers measurable impact across operations and mar
 
 ## 🧠 Core Technology
 
-This project leverages cutting-edge technology for cinematic quality and real-time intelligence, ensuring a unique and leading interaction experience.
+This product leverages cutting-edge technology for cinematic quality and real-time intelligence, ensuring a unique and leading interaction experience.
 
 * **Cinematic Visuals:** Real-time rendering powered by **Unreal Engine** and high-fidelity 3D modeling using **MetaHuman** technology.
-* **Intelligent Core:** Powered by an **Edge-LLM (Large Language Model)** for localized, smart, and quick response capabilities.
-* **High-Performance Voice:** Uses **NVIDIA RIVA** for low-latency, high-accuracy Automatic Speech Recognition (ASR).
+* **Intelligent Core:** Powered by an **Edge-LLM ( Large Language Model )** for localized, smart, and quick response capabilities.
+* **High-Performance Voice:** Uses **NVIDIA RIVA** for low-latency, high-accuracy Automatic Speech Recognition ( ASR ).
 * **Patented Technology:** Utilizes **Multi-sensory Human-Computer Interaction Technology (R.O.C. Invention Patent)** to ensure unique and leading interaction quality.
 
 ---
 
 ## 💻 Hardware Configuration
 
-This project operates using a **two-PC, machine-to-machine connection** setup to divide the computational load between high-fidelity rendering and real-time intelligence, alongside a dedicated user interaction device.
+This product operates using a **two-PC, machine-to-machine connection** setup to divide the computational load between high-fidelity rendering and real-time intelligence, alongside a dedicated user interaction device.
 
-### 1. 🖥️ Rendering PC (Unreal Engine)
+### 1. 🖥️ Rendering PC ( Unreal Engine )
 
 This machine is dedicated to running **Unreal Engine** for high-quality, real-time cinematic visuals.
 
-| Component | Specification<br>(Equivalent or Better) | Rationale |
+| Component | Specification<br>( Equivalent or Better ) | Rationale |
 | :--- | :--- | :--- |
 | **Operating System** | Windows 11 Home Edition | Standard OS for high-end rendering applications. |
 | **GPU** | **NVIDIA RTX 4090** | Essential for complex real-time ray tracing and high-resolution rendering. |
@@ -52,7 +52,7 @@ This machine is dedicated to running **Unreal Engine** for high-quality, real-ti
 | **RAM** | 32 GB | Sufficient memory for simultaneous operation of Unreal Engine and the OS. |
 | **Storage** | 1 TB SSD | Fast loading times for project assets and quick iteration. |
 
-### 2. 🧠 Local LLM PC (Intelligent Core): Advantech AIR-030
+### 2. 🧠 Local LLM PC ( Intelligent Core ): Advantech AIR-030
 
 This machine is dedicated to hosting the **Edge-LLM** (Local Large Language Model) for localized, fast, and smart interaction processing.
 
@@ -69,7 +69,7 @@ This component serves as the primary output and input hub, facilitating client-s
 | :--- | :--- | :--- |
 | **Device Type** | Client-side Interactive Touch Kiosk Hardware and A/V I/O System | Focuses on multi-sensory human-computer interaction. |
 | **Display Size** | **55 inches** | Large format for immersive viewing. |
-| **Resolution** | **1920 x 1080 (Full HD)** | Standard high-definition display resolution. |
+| **Resolution** | **1920 x 1080 ( Full HD )** | Standard high-definition display resolution. |
 | **Functionality** | **Touch-enabled** | Allows for direct user interaction and input. |
 
 ---
@@ -80,7 +80,7 @@ For business inquiries, project collaboration, or partnership opportunities, ple
 
 | Information | Details |
 | :--- | :--- |
-| **Enterprise Name** | BearVFX Co., Ltd. (能火動畫) |
-| **Contact Person** | Ethan Cheng (Founder & CEO) |
+| **Enterprise Name** | BearVFX Co., Ltd. |
+| **Contact Person** | Ethan Cheng ( Founder & CEO ) |
 | **Email** | ethan.cheng@bearvfx.com |
 | **Phone** | +886-955-310-208 |
