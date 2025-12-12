@@ -23,12 +23,49 @@ Bearvfx 3D AI Virtual Human delivers measurable impact across operations and mar
 
 ---
 
-### Technology Stack
+### Core Technology
 
 This project leverages cutting-edge technology for cinematic quality and real-time intelligence:
 
 * **Cinematic Visuals:** Real-time rendering powered by **Unreal Engine** and high-fidelity 3D modeling using **MetaHuman** technology.
 * **Intelligent Core:** Powered by an **Edge-LLM (Large Language Model)** for localized, smart, and quick response capabilities.
+* **High-Performance Voice:** Uses **NVIDIA RIVA** for low-latency, high-accuracy Automatic Speech Recognition (ASR).
 * **Patented Technology:** Utilizes **Multi-sensory Human-Computer Interaction Technology (R.O.C. Invention Patent)** to ensure unique and leading interaction quality.
 
 ---
+
+### Core Technology
+
+This project leverages cutting-edge technology for cinematic quality and real-time intelligence:
+
+* **Cinematic Visuals:** Real-time rendering powered by **Unreal Engine** and high-fidelity 3D modeling using **MetaHuman** technology.
+* **Intelligent Core:** Powered by an **Edge-LLM (Large Language Model)** for localized, smart, and quick response capabilities, supported by **NVIDIA RIVA** for high-performance, low-latency voice recognition.
+* **Patented Technology:** Utilizes **Multi-sensory Human-Computer Interaction Technology (R.O.C. Invention Patent)** to ensure unique and leading interaction quality.
+
+---
+
+## Hardware Specification
+
+This project operates using a **two-PC, machine-to-machine connection** setup to divide the computational load between high-fidelity rendering and real-time intelligence.
+
+### 1. Rendering PC (Unreal Engine)
+
+This machine is dedicated to running **Unreal Engine** for high-quality, real-time cinematic visuals.
+
+| Component | Specification (Equivalent or Better) | Rationale |
+| :--- | :--- | :--- |
+| **Operating System** | Windows 11 Home Edition | Standard OS for high-end rendering applications. |
+| **GPU** | **NVIDIA RTX 4090** | Essential for complex real-time ray tracing and high-resolution rendering. |
+| **VRAM** | **24 GB or Higher** | Critical requirement for loading large-scale textures, assets, and complex scenes. |
+| **CPU** | **Intel Ultra 9** | High-performance processor to manage game logic, physics, and scene preparation. |
+| **RAM** | 32 GB | Sufficient memory for simultaneous operation of Unreal Engine and the OS. |
+| **Storage** | 1 TB SSD | Fast loading times for project assets and quick iteration. |
+
+### 2. Local LLM PC (Intelligent Core): Advantech AIR-030
+
+This machine is dedicated to hosting the **Edge-LLM** (Local Large Language Model) for localized, fast, and smart interaction processing.
+
+* **Model:** **Advantech AIR-030** Series
+* **Platform Software:** Utilizes **Advantech's WEDA Container** solution for streamlined deployment and management of the AI core and Edge-LLM services.
+* **Role:** Serves as the high-performance edge computing platform for the AI core.
+* **Detailed Specifications:** Please refer to Advantech's official product website for complete hardware specifications.
