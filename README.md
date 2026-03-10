@@ -1,4 +1,4 @@
-# BearVFX 3D AI Virtual Human with Edge AI Architecture
+# BearVFX 3D AI Virtual Human Kiosk with Edge LLM
 
 **A next-generation Human-Computer Interaction solution leveraging high-fidelity BearVFX 3D AI Virtual Human with Advantech's localized Edge LLM and RAG system for immersive, interactive experiences.**
 
